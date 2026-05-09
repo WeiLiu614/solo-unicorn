@@ -46,6 +46,7 @@ describe("MobileNav", () => {
 
     expect(screen.getByRole("link", { name: "Services" })).toBeInTheDocument();
     expect(screen.getByRole("link", { name: "About" })).toBeInTheDocument();
+    expect(screen.getByRole("link", { name: "Resume" })).toBeInTheDocument();
     expect(screen.getByRole("link", { name: "Work" })).toBeInTheDocument();
     expect(screen.getByRole("link", { name: "Contact" })).toBeInTheDocument();
   });

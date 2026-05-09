@@ -113,11 +113,15 @@ export default function ResumePage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckIcon className="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" />
-                    <span>Designed intelligent routing layers that reduced AI compute costs by over 50%.</span>
+                    <span>Designed intelligent routing layers that reduced AI compute costs by over 50%, saving hundreds of thousands in compute spend.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckIcon className="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" />
                     <span>Architected orchestration systems adopted across entire engineering organizations for production-grade AI.</span>
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <CheckIcon className="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" />
+                    <span>Mentored engineers on thinking about system purpose (the "why") before implementation (the "how").</span>
                   </li>
                 </ul>
               </div>

@@ -83,6 +83,13 @@ export function MobileNav() {
                 About
               </a>
               <a
+                href="/resume"
+                onClick={closeMenu}
+                className="text-base font-medium text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors py-2"
+              >
+                Resume
+              </a>
+              <a
                 href="#work"
                 onClick={closeMenu}
                 className="text-base font-medium text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors py-2"
