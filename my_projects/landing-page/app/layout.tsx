@@ -9,9 +9,9 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 // Prompt: "Update the page title and description for SEO"
 // ============================================================
 export const metadata: Metadata = {
-  title: "Your Name - Your Professional Title | Your Services",
-  description: "Your value proposition in 150-160 characters. What do you do and who do you help?",
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4"],
+  title: "Wei Liu - Full Stack Developer & React Specialist",
+  description: "Software Engineer with 8 years of experience in designing, developing, and testing web applications using React, NodeJS, and GraphQL.",
+  keywords: ["Wei Liu", "Full Stack Developer", "React Specialist", "NodeJS", "Software Engineer"],
 };
 
 export default function RootLayout({
