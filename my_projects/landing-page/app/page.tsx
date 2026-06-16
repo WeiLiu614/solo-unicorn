@@ -209,7 +209,7 @@ export default function Home() {
                 Services
               </h2>
               <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-                Choose the engagement level that works best for you
+                Tailored solutions for modern web challenges
               </p>
             </div>
 
@@ -220,24 +220,24 @@ export default function Home() {
                 <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center text-white mb-6">
                   <BookOpenIcon />
                 </div>
-                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service One</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your entry-level or self-service offering.</p>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Frontend Architecture</h3>
+                <p className="text-slate-600 dark:text-slate-400 mb-4">Modernizing legacy frontends with React, Micro Frontends, and Redux Toolkit.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  $499
+                  $1,999
                   <span className="text-base font-normal text-slate-500">/project</span>
                 </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Feature one included
+                    React & TypeScript Migration
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Feature two included
+                    Micro Frontend Strategy
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Feature three included
+                    State Management Optimization
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
@@ -254,28 +254,28 @@ export default function Home() {
                 <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white mb-6">
                   <UsersIcon />
                 </div>
-                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Two</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your mid-tier, done-with-you offering.</p>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Full-Stack Development</h3>
+                <p className="text-slate-600 dark:text-slate-400 mb-4">End-to-end application development using Node.js, GraphQL, and Cloud Services.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  $1,999
+                  $4,999
                   <span className="text-base font-normal text-slate-500">/month</span>
                 </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Everything in Service One
+                    Everything in Frontend Arch
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Weekly coaching calls
+                    GraphQL Service Layer
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Priority support
+                    Database Design (SQL/NoSQL)
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Implementation guidance
+                    Continuous Delivery setup
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-blue-600 hover:bg-blue-700 text-white rounded-xl font-medium transition-colors">
@@ -288,8 +288,8 @@ export default function Home() {
                 <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-amber-500 to-orange-600 flex items-center justify-center text-white mb-6">
                   <BoltIcon />
                 </div>
-                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Three</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your premium, done-for-you offering.</p>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Enterprise Consulting</h3>
+                <p className="text-slate-600 dark:text-slate-400 mb-4">Strategic consulting for cloud migration and scaling massive email/data systems.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
                   Custom
                   <span className="text-base font-normal text-slate-500"> pricing</span>
@@ -297,19 +297,19 @@ export default function Home() {
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Full-service execution
+                    Cloud Migration (AWS/GCP)
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Dedicated support
+                    Legacy System Decoupling
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Custom solutions
+                    High-Throughput Architecture
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Ongoing partnership
+                    Architecture Review & Audit
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
@@ -334,7 +334,7 @@ export default function Home() {
                 Featured Work
               </h2>
               <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-                Selected projects and results
+                Selected projects and results from my career
               </p>
             </div>
 
@@ -346,12 +346,12 @@ export default function Home() {
                   <span className="text-white text-6xl font-bold opacity-20">01</span>
                 </div>
                 <div className="p-6">
-                  <div className="text-sm text-blue-600 dark:text-blue-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
+                  <div className="text-sm text-blue-600 dark:text-blue-400 font-medium mb-2">E-commerce / eBay</div>
+                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Email Campaign Manager</h3>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Developed a high-scale system handling 440M+ emails/week using microservices and GraphQL.</p>
                   <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
                     <TrendingUpIcon />
-                    Key Result / Metric
+                    440M+ Weekly Emails
                   </div>
                 </div>
               </div>
@@ -362,12 +362,12 @@ export default function Home() {
                   <span className="text-white text-6xl font-bold opacity-20">02</span>
                 </div>
                 <div className="p-6">
-                  <div className="text-sm text-purple-600 dark:text-purple-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
+                  <div className="text-sm text-purple-600 dark:text-purple-400 font-medium mb-2">Cybersecurity / Palo Alto Networks</div>
+                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Customer Support Portal</h3>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Architected a global support portal using React micro frontends and Redux Toolkit for massive scale.</p>
                   <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
                     <TrendingUpIcon />
-                    Key Result / Metric
+                    Micro Frontend Architecture
                   </div>
                 </div>
               </div>
@@ -378,12 +378,12 @@ export default function Home() {
                   <span className="text-white text-6xl font-bold opacity-20">03</span>
                 </div>
                 <div className="p-6">
-                  <div className="text-sm text-amber-600 dark:text-amber-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
+                  <div className="text-sm text-amber-600 dark:text-amber-400 font-medium mb-2">Travel / Expedia Group</div>
+                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Property Onboarding</h3>
+                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Built a dynamic property onboarding platform using Server-Driven UI and React Hooks.</p>
                   <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
                     <TrendingUpIcon />
-                    Key Result / Metric
+                    Server-Driven UI
                   </div>
                 </div>
               </div>
@@ -410,37 +410,37 @@ export default function Home() {
             <div className="space-y-4">
               <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700">
                 <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
-                  What makes you different from others?
+                  What technologies do you specialize in?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Your unique value proposition and what sets you apart from competitors.
+                  I specialize in the React ecosystem (React, Redux Toolkit, React Hooks) and full-stack development with Node.js, GraphQL, and modern TypeScript.
                 </p>
               </div>
 
               <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700">
                 <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
-                  What is your typical process?
+                  Do you have experience with enterprise-scale systems?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Explain your working process from initial contact to delivery.
+                  Yes, I have worked at major tech companies like eBay, Palo Alto Networks, and Expedia, developing systems that handle over 440 million emails per week and global support traffic.
                 </p>
               </div>
 
               <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700">
                 <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
-                  How long does a typical project take?
+                  Can you help with legacy system modernization?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Timeline expectations and what factors affect duration.
+                  Absolutely. A core part of my experience is migrating legacy monolithic applications to modern microservices architectures and cloud-native environments.
                 </p>
               </div>
 
               <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700">
                 <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
-                  Do you offer payment plans?
+                  How do you approach frontend performance?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Payment options, deposits, and billing information.
+                  I utilize techniques like micro frontends, state management optimization with Redux Toolkit, and efficient data fetching with GraphQL to ensure fast and scalable user interfaces.
                 </p>
               </div>
             </div>
